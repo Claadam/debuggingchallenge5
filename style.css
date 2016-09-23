@@ -7,10 +7,13 @@
 #padding {
  color: grey;
   border-style: solid;
-  border-
+  border-;
+  text-align: center;
 }
 
 #br {
  color: grey; 
-  border-radius: 
+  border-style: solid;
+  border-radius: 10px;
+  text-align:center;
 }
