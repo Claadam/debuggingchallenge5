@@ -24,5 +24,6 @@
 }
 
 #Da-Google{
- background: linear-gradient(0deg, blue, green) 
+ background: linear-gradient(0deg, blue, green);
+  text-align: center;
 }
