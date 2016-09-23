@@ -7,13 +7,14 @@
 #padding {
  color: grey;
   border-style: solid;
-  border-;
+  padding: 25px;
   text-align: center;
 }
 
 #br {
  color: grey; 
   border-style: solid;
-  border-radius: 10px;
+  border-radius: 20px;
   text-align:center;
+  padding: 7px
 }
